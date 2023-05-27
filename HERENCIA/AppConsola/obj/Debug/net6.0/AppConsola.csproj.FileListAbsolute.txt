@@ -1,0 +1,15 @@
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\bin\Debug\net6.0\AppConsola.exe
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\bin\Debug\net6.0\AppConsola.deps.json
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\bin\Debug\net6.0\AppConsola.runtimeconfig.json
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\bin\Debug\net6.0\AppConsola.dll
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\bin\Debug\net6.0\AppConsola.pdb
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.csproj.AssemblyReference.cache
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.AssemblyInfoInputs.cache
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.AssemblyInfo.cs
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.dll
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\refint\AppConsola.dll
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.pdb
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\AppConsola.genruntimeconfig.cache
+C:\Users\spayd\OneDrive\Documentos\TRABAJO\DEV ZEROS\ESCUELA\HERENCIA\AppConsola\obj\Debug\net6.0\ref\AppConsola.dll
